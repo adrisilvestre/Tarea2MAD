@@ -10,17 +10,23 @@ Aquí algunas imágenes de ejemplo:
 **Página de Login**\
 ![Login-Clear](ImágenesApp/Login-Clear.jpeg)
 
-**Página de Login al dejar campos en blanco**
-![Login-Clear](ImágenesApp/Login-Blank exception.jpeg)
-**Página de Login con un solo campo en blanco**
-![Login-Clear](ImágenesApp/Login- Half Blank Exception.jpeg)
-**Página de Registro satisfactorio**
-![Login-Clear](ImágenesApp/Registro-Satisfactorio.jpeg)
-**Página de Registro-Correo inválido**
-![Login-Clear](ImágenesApp/Registro-Correo Inválido.jpeg)
-**Página de Registro-Campos Vacíos**
-![Login-Clear](ImágenesApp/Registro-Entradas vacías.jpeg)
-**Páginas de Registro-Incorcondancia de contraseñas**
-![Login-Clear](ImágenesApp/Registro-Inconcordancia Contraseñas.jpeg)
-**TabbedPag-HomePage**
-![Login-Clear](ImágenesApp/TabbedPage-Home.jpeg)
+**Página de Login al dejar campos en blanco**\
+![Login-BlankException](ImágenesApp/Login-Blank exception.jpeg)
+
+**Página de Login con un solo campo en blanco**\
+![Login-HalfBlankEntries](ImágenesApp/Login- Half Blank Exception.jpeg)
+
+**Página de Registro satisfactorio**\
+![Registry-SatisfactoryRegistry](ImágenesApp/Registro-Satisfactorio.jpeg)
+
+**Página de Registro-Correo inválido**\
+![Registry-InvalidEmail](ImágenesApp/Registro-Correo Inválido.jpeg)
+
+**Página de Registro-Campos Vacíos**\
+![Registry-BlankEntries](ImágenesApp/Registro-Entradas vacías.jpeg)
+
+**Páginas de Registro-Incorcondancia de contraseñas**\
+![Registry-Password Unmatching](ImágenesApp/Registro-Inconcordancia Contraseñas.jpeg)
+
+**TabbedPag-HomePage**\
+![HomePage-TabbedPage Implementation UI](ImágenesApp/TabbedPage-Home.jpeg)
