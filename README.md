@@ -7,4 +7,4 @@ El proyecto se encuentra alojado en el branch DevBranch.
 
 Aquí algunas imágenes de ejemplo:
 
-![Login-Clear](./Login-Clear.jpeg)
+![Login-Clear](ImágenesApp/Login-Clear.jpeg)
