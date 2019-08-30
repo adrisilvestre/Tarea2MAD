@@ -5,6 +5,7 @@ En esta asignación tuvimos que poner en práctica Data Binding, MVVM y navgaci�
 
 El proyecto se encuentra alojado en el branch DevBranch.
 
+Por razones que desconozco alguna imágenes no están siendo inseradas en este .mkd adecuadamente, aun así, estas pueden ser encontradas en la carpeta "ImágenesApp" en esta misma ruta.
 Aquí algunas imágenes de ejemplo:
 
 **Página de Login**\
