@@ -7,7 +7,7 @@ El proyecto se encuentra alojado en el branch DevBranch.
 
 Aquí algunas imágenes de ejemplo:
 
-**Página de Login**
+**Página de Login**\
 ![Login-Clear](ImágenesApp/Login-Clear.jpeg)
 
 **Página de Login al dejar campos en blanco**
